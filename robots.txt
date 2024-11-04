@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emipuubi.github.io/OJB/sitemap_index.txt
+Sitemap: https://emipuubi.github.io/Trs/sitemap_index.txt
+Sitemap: https://emipuubi.github.io/XCE/sitemap_index.txt
+Sitemap: https://emipuubi.github.io/eSv/sitemap_index.txt
